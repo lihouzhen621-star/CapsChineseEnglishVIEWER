@@ -1,4 +1,4 @@
-Input Glass V9 - Windows x64
+Input Glass  - Windows x64
 ============================
 
 中文说明
