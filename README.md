@@ -133,7 +133,7 @@ InputGlass-Windows-x64.exe
 
 ## 平台说明
 
-当前 V1 版本以 Windows 10/11 为主要发布平台。
+当前 V2 版本以 Windows 10/11 为主要发布平台。
 
 
 
