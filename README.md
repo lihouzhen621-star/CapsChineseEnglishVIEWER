@@ -1,19 +1,5 @@
 # Input Glass
 
-<p align="center">
-  <img src="assets/InputGlass-icon.png" width="150" alt="Input Glass 图标">
-</p>
-
-<p align="center">
-  一款轻量、美观、始终置顶的中英文输入状态指示器。
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/version-v9.0.0-4A90E2" alt="Version">
-  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4" alt="Platform">
-  <img src="https://img.shields.io/badge/package-portable-34C759" alt="Portable">
-</p>
-
 ## 项目定位
 
 Input Glass 不追求复杂的设置页面或大量附加功能。
